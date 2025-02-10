@@ -28,7 +28,7 @@ The dataset includes various customer attributes that are crucial for identifyin
 - Churn reasons (further grouped into categories)
 - Service & Device protection
 
-The data used for this analysis can be found in the `CustomerData.xlsx` file included in the repository.
+The data used for this analysis can be found in the `Customer_Data.xlsx` file included in the repository.
 
 ## Methodology
 The churn analysis involves the following steps:
@@ -46,10 +46,10 @@ The project consists of the following tabs in the Excel workbook:
 3. **Customer**: The customer usage & subcription information, with no duplicated values.
 4. **Customer_Pivots**: Pivot tables, formulas, and visualizations that help identify churn patterns.
 5. **Aggregate_Pivots**: Pivot table & charts focusing on demographics & tenure.
-6. **Original Data**: Placed in original form as recieved from Databel (under file name 'CustomerData.xlsx').
+6. **Original Data**: Placed in original form as recieved from Databel (under file name 'Customer_Data.xlsx').
 
 ## How to Use
-1. **Download the Excel File**: You can download the `Customer Churn Analysis.xlsx` file from this repository.
+1. **Download the Excel File**: You can download the `Customer_Churn_Analysis.xlsx` file from this repository.
 2. **Open in Excel**: Open the Excel file using Microsoft Excel or any compatible spreadsheet software.
 3. **Data Review**: Review the data and understand the structure of customer attributes.
 4. **Analysis**: Use the pivot tables and charts in the "Dashboard" tab to explore churn patterns and trends.
