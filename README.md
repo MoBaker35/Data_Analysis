@@ -5,7 +5,7 @@ This project provides a churn analysis solution using Microsoft Excel 365 for a 
 
 ## Contents
 1. [Objective](#objective)
-2. [Meta Data](#meta-data)
+2. [Data](#data)
 3. [Methodology](#methodology)
 4. [Excel File Overview](#excel-file-overview)
 5. [How to Use](#how-to-use)
